@@ -1,0 +1,80 @@
+#title{
+    background-color: #ff4c68;
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link{
+    font-size: 20px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.classy:hover{
+    font-weight: bold;
+}
+
+.download-btn{
+    padding: 5% 3% 5% 0;
+}
+
+#features{
+    padding: 5% 10%;
+    text-align: center;
+}
+
+.icony{
+    color: #ff4c68;
+    padding: 10%;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+h2{
+    font-size: 2rem;
+    font-family: 'Montserrat';
+    line-height: 1.5;
+}
+
+.pebbles{
+    border-radius: 100%;
+    width: 15%;
+    margin: 30px;
+}
+
+#press{
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 2%;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+#pricing{
+    padding: 5% 10%;
+    text-align: center;
+}
